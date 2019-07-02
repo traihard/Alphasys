@@ -20,7 +20,7 @@ public class MyServlet implements Servlet {
         PrintWriter out = res.getWriter();
         out.println("<html>");//输出的内容要放在HTML中
         out.println("<body>");
-        out.println("qwerty123");
+        out.println("qwerty");
         out.println("</body>");
         out.println("</html>");
 
