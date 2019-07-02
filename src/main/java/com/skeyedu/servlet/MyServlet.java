@@ -21,8 +21,6 @@ public class MyServlet implements Servlet {
         out.println("<html>");//输出的内容要放在HTML中
         out.println("<body>");
         out.println("qwerty");
-
-
     }
 
     @Override
